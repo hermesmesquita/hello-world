@@ -1,2 +1,2 @@
 # hello-world
-<h1>Aprendendo a versionar</h1>
+<h2>Aprendendo a versionar</h2>
